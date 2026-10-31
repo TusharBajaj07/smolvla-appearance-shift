@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv*/
+modal/*/*.npz
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.blg
+*.synctex.gz
+arxiv_submission.tar.gz
